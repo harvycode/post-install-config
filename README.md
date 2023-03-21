@@ -188,4 +188,4 @@ In the admin panel
 <img src="https://i.imgur.com/uFmSyqK.png" height="80%" width="80%" />
 <img src="https://i.imgur.com/PVlJh4x.png" height="80%" width="80%" />
 
-Done.
+And now everything is configured! :D
